@@ -4,7 +4,7 @@ required = {
     "numpy": "pip install numpy",
     "PIL": "pip install pillow",
     "matplotlib": "pip install matplotlib",
-    "scikit-learn": "pip install scikit-learn"
+    "sklearn": "pip install scikit-learn"
 }
 
 
