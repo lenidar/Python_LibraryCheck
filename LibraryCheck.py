@@ -3,8 +3,10 @@ import importlib
 required = {
     "numpy": "pip install numpy",
     "PIL": "pip install pillow",
-    "matplotlib": "pip install matplotlib"
+    "matplotlib": "pip install matplotlib",
+    "scikit-learn": "pip install scikit-learn"
 }
+
 
 print("\n=== Checking Required Libraries for Image Segmentation Demo ===\n")
 
